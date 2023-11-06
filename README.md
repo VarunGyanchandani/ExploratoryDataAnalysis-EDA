@@ -1,4 +1,4 @@
-# ExploratoryDataAnalysis-EDA-
+# ExploratoryDataAnalysis-EDA
 This repository is useful for data science projects.
 It contains EDA files created by me for my projects.
 EDA is used to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.
